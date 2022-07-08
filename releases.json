@@ -3,7 +3,7 @@
         "os": "macOS (app)",
         "version": "8.4.0",
         "filename": "Katalon.Studio.app.zip",
-        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v8.4.0/Katalon_Studio_Engine_MacOS-8.4.0.tar.gz"
+        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v8.4.0.beta/Katalon_Studio_Engine_MacOS-8.4.0.tar.gz"
     },
     {
         "os": "Linux",
@@ -15,13 +15,13 @@
         "os": "Windows 32",
         "version": "8.4.0",
         "filename": "Katalon_Studio_Windows_32-8.4.0.zip",
-        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v8.4.0/Katalon_Studio_Engine_Windows_32-8.4.0.zip"
+        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v8.4.0.beta/Katalon_Studio_Engine_Windows_32-8.4.0.zip"
     },
     {
         "os": "Windows 64",
         "version": "8.4.0",
         "filename": "Katalon_Studio_Windows_64-8.4.0.zip",
-        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v8.4.0/Katalon_Studio_Engine_Windows_64-8.4.0.zip"
+        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v8.4.0.beta/Katalon_Studio_Engine_Windows_64-8.4.0.zip"
     },
     {
         "os": "macOS (app)",
